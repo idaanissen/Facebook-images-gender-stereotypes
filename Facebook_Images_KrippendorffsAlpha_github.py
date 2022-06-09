@@ -2,7 +2,7 @@
 """
 Created on Fri Jan 28 12:33:48 2022
 
-@author: au685355 Ida Anthonj Nissen
+@author: Ida Anthonj Nissen
 """
 
 #Calculate Krippendorff's alpha on Facebook Image Rating dataset
